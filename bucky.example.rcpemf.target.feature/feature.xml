@@ -45,13 +45,6 @@
          unpack="false"/>
 
    <plugin
-         id="javax.inject.source"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="javax.xml"
          download-size="0"
          install-size="0"
@@ -66,13 +59,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.apache.batik.css.source"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="org.apache.batik.util"
          download-size="0"
          install-size="0"
@@ -81,20 +67,6 @@
 
    <plugin
          id="org.apache.batik.util.gui"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.apache.batik.util.gui.source"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.apache.batik.util.source"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -1593,13 +1565,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.w3c.css.sac.source"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="org.w3c.dom.smil"
          download-size="0"
          install-size="0"
@@ -1608,13 +1573,6 @@
 
    <plugin
          id="org.w3c.dom.svg"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.w3c.dom.svg.source"
          download-size="0"
          install-size="0"
          version="0.0.0"
