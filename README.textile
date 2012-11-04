@@ -1,0 +1,15 @@
+This is an example showing how to create a target platform to be materialized by *Buckminster*, using a CSPEC, CQUERY and RMAP.
+
+The target platform will consist of
+
+
+* org.eclipse.rcp
+* org.eclipse.rcp.source
+* org.eclipse.emf.sdk
+* org.eclipse.equinox.executable
+
+
+
+This will allow you to get a target platform where _all the required software is materialized_, *without* giving up the _possibility to build an RCP product for multiple environments_ (not only the current one).
+
+From the target platform we will then build a p2 repository with all the bundles of the so defined target platform.
