@@ -1,0 +1,11 @@
+.metadata
+*.class
+bin/
+*~
+logs.zip
+*.orig
+.svn/
+xtend-gen/
+*.jpg
+*.jpeg
+target/
