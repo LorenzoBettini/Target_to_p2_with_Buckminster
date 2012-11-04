@@ -1,0 +1,5 @@
+Once the target platform is materialized with Buckminster, this feature was created with the Eclipse wizard, by selecting all the plugins from the current target platform (excluding possible existing plugins in the workspace):
+
+!new_feature_with_all_tp_plugins.png! 
+
+By running *site.p2* Buckminster action you will obtain a p2 repository with all the plugins of your current target platform. 

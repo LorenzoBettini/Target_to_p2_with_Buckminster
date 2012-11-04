@@ -1,0 +1,7 @@
+This project contains target definitions editable with the Target Editor.
+
+However, if you want to build an RCP product for multiple environments (not only the current one) you have to give up the "Include Required Software" checkbox:
+
+!target_editor_screenshot.png! 
+
+thus your target platform may miss some required plugins, and this will make the building of a p2 repository fail. 
