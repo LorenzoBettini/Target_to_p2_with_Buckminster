@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rm:rmap xmlns:bc="http://www.eclipse.org/buckminster/Common-1.0" xmlns:rm="http://www.eclipse.org/buckminster/RMap-1.0">
   <rm:property key="projects.location" value="${workspace.root}"/>
-  <rm:locator pattern="^bucky.example.rcpemf.target(?:\..+)?$" searchPathRef="project"/>
+  <rm:locator pattern="^bucky.example.rcpemf(?:\..+)?$" searchPathRef="project"/>
   <rm:searchPath name="project">
     <rm:provider componentTypes="eclipse.feature,osgi.bundle,buckminster" readerType="local" mutable="false">
       <rm:property key="buckminster.mutable" value="false"/>
