@@ -25,4 +25,5 @@
       </rm:uri>
     </rm:provider>
   </rm:searchPath>
+  <rm:redirect pattern="bucky.example.rcpemf.target" href="project.rmap"/>
 </rm:rmap>
