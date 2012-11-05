@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rm:rmap xmlns:rm="http://www.eclipse.org/buckminster/RMap-1.0"
 	xmlns:bc="http://www.eclipse.org/buckminster/Common-1.0">
+
+	<rm:property key="projects.location" value="${workspace.root}" />
+
 	<rm:searchPath name="juno-releases">
 		<rm:provider componentTypes="osgi.bundle,eclipse.feature"
 			readerType="p2" source="false" mutable="false">
