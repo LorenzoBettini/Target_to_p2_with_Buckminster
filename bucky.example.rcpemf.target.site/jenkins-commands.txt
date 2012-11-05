@@ -1,6 +1,0 @@
-resolve 'bucky.example.rcpemf.target/target-platform.cquery'
-resolve 'bucky.example.rcpemf.target/project.cquery'
-clean
-build
-perform -D target.os=* -D target.ws=* -D target.arch=* bucky.example.rcpemf.target.site#buckminster.clean
-perform -D target.os=* -D target.ws=* -D target.arch=* bucky.example.rcpemf.target.site#site.p2
