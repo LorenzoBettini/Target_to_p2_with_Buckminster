@@ -1,0 +1,5 @@
+Once the target platform is materialized with Buckminster, this feature was created with the Eclipse wizard, by selecting all the plugins from the current target platform (excluding possible existing plugins in the workspace), just like the bucky.example.rcpemf.target.site feature; however, in this case, we also include the same features that we specified for the target platform: this way, the generated site.p2 can actually be used as a (mirror) repository, where the installable units (IU) appear
+
+!https://raw.github.com/LorenzoBettini/Target_to_p2_with_Buckminster/master/bucky.example.rcpemf.target.mirror.site/mirror_site_feature.png!
+
+By running *site.p2* Buckminster action you will obtain a p2 repository with all the features of your current target platform, thus it can be considered a local mirror with all the IU of the target platform. 
