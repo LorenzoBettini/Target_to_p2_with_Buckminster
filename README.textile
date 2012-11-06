@@ -12,4 +12,4 @@ The target platform will consist of
 
 This will allow you to get a target platform where _all the required software is materialized_, *without* giving up the _possibility to build an RCP product for multiple environments_ (not only the current one).
 
-From the target platform we will then build a p2 repository with all the bundles of the so defined target platform.
+From the target platform we will then build a p2 repository with all the bundles of the so defined target platform (feature bucky.example.rcpemf.target.site).  We also build a p2 repository with all the installable units of the so defined target platform (bucky.example.rcpemf.target.mirror.site), which can then be considered as a local mirror of the so defined target platform.

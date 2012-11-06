@@ -2,4 +2,4 @@ Once the target platform is materialized with Buckminster, this feature was crea
 
 !https://raw.github.com/LorenzoBettini/Target_to_p2_with_Buckminster/master/bucky.example.rcpemf.target.mirror.site/mirror_site_feature.png!
 
-By running *site.p2* Buckminster action you will obtain a p2 repository with all the features of your current target platform, thus it can be considered a local mirror with all the IU of the target platform. 
+By running *site.p2* Buckminster action you will obtain a p2 repository with all the features of your current target platform, thus it can be considered as a local mirror with all the IU of the target platform. 
