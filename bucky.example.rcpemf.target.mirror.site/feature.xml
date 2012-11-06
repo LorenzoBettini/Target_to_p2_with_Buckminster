@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="bucky.example.rcpemf.target.mirror.site"
-      label="Site"
+      label="Rcp Emf Target Mirror Site"
       version="1.0.0.qualifier">
 
    <description url="http://www.example.com/description">

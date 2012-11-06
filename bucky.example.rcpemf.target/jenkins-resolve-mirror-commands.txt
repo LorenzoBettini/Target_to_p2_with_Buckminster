@@ -1,0 +1,2 @@
+resolve 'bucky.example.rcpemf.target/target-platform.cquery'
+resolve 'bucky.example.rcpemf.target/mirror-project.cquery'
