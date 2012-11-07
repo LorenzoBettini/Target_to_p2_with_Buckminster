@@ -1,0 +1,5 @@
+clean
+build
+perform -D target.os=* -D target.ws=* -D target.arch=* "bucky.example.rcpemf.target.mirror.site#buckminster.clean"
+perform -D target.os=* -D target.ws=* -D target.arch=* "bucky.example.rcpemf.target.mirror.site#site.p2"
+

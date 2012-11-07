@@ -1,0 +1,3 @@
+setpref targetPlatformPath="${target.platform}"
+resolve "${projects.location}/bucky.example.rcpemf.target/target-platform.cquery"
+resolve "${projects.location}/bucky.example.rcpemf.target/mirror-project.cquery"
