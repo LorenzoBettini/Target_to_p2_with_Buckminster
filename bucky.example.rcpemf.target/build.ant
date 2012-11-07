@@ -12,8 +12,6 @@
 		buckminster.home	Buckminster headless to use. See http://www.eclipse.org/buckminster/downloads.html
 		projects.location	Where to find projects to build?
 							Default: ${WORKSPACE}
-		commands.file		What to do?
-							Default: ${projects.location}/org.xtext.example.hellobuck.buckminster/commands.txt
 -->
 <project name="Buckminster Headless" default="buckminster">
 	<property name="WORKSPACE" location="${ant.file}/../../" />
