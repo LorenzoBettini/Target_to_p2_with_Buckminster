@@ -1,3 +1,7 @@
+This is the source code for the tutorial that can be found here:
+
+"":http://www.lorenzobettini.it/2012/11/materializing-and-provisioning-your-target-platform-as-local-p2-site-with-buckminster/
+
 This is an example showing how to create a target platform to be materialized by *Buckminster*, using a CSPEC, CQUERY and RMAP.
 
 The target platform will consist of
